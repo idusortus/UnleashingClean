@@ -1,4 +1,6 @@
-﻿# UnleashingClean
+﻿- Cosmetic Edit to retrigger actions.
+
+# UnleashingClean
 
 The project was generated using the [Clean.Architecture.Solution.Template](https://github.com/jasontaylordev/UnleashingClean) version 8.0.0-preview.7.2.
 
