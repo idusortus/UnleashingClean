@@ -4,6 +4,8 @@
 - Switch from ef-core tool rc2 to preview 7
 - Per GHAction error log, switched to --version '8.0.0-rc.1.23419.4'
 - Reverted to --prerelease
+- ^^^ resolved to rc2, which conflicts with the .net environment
+- Switched to --version '8.0.100-preview.7.23376.3'
 
 # UnleashingClean
 
