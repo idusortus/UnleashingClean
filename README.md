@@ -7,6 +7,7 @@
 - ^^^ resolved to rc2, which conflicts with the .net environment
 - Switched to --version '8.0.100-preview.7.23376.3'
 - Moving the entire solution to 8.0.0-rc.2. (Minor differences in .csproj, obtained from nuget.org)
+- Missed global.json, updated to 8.0.100-rc.2.23502.2
 
 # UnleashingClean
 
