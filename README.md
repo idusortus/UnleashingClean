@@ -3,6 +3,7 @@
 - Pipeline trigger
 - Switch from ef-core tool rc2 to preview 7
 - Per GHAction error log, switched to --version '8.0.0-rc.1.23419.4'
+- Reverted to --prerelease
 
 # UnleashingClean
 
