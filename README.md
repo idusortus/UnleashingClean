@@ -1,6 +1,7 @@
 ﻿- Cosmetic Edit to retrigger actions.
 - As above
 - Pipeline trigger
+- Switch from ef-core tool rc2 to preview 7
 
 # UnleashingClean
 
